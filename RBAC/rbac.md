@@ -138,7 +138,7 @@ subjects:
 
 
 ### **How to Apply the YAML Files**
-1. Save each YAML snippet as a separate file:
+1. Save each YAML snippet as a separate files:
    - `serviceaccount.yaml`
    - `role.yaml`
    - `rolebinding.yaml`
